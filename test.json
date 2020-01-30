@@ -1,0 +1,81 @@
+// var sandwiches = {"sandwich": "hamburger",
+//     "calories": "260"}
+//     ;
+// var fries = {"fries_size": "Large French Fries",
+//     "calories": "570",};
+
+
+
+    var Employees =  [{
+ 
+        "uniqueId": "123",
+ 
+        "firstName": "Patrik",
+ 
+        "lastName": "Jonathan",
+ 
+        "emailAddress": "patrik.k.jonathan@gmail.com",
+
+        "jobTitleName": "Developer",
+
+        "salary": "15.000€",
+ 
+    }, {
+ 
+        "uniqueId": "234",
+ 
+        "firstName": "Martin",
+ 
+        "lastName": "Buscher",
+ 
+        "emailAddress": "martin.buscher@gmail.com",
+
+        "jobTitleName": "Frisoe",
+
+        "salary": "13.000€",
+ 
+    },{
+ 
+        "uniqueId": "345",
+ 
+        "firstName": "Sonja",
+ 
+        "lastName": "Bregovic",
+ 
+        "emailAddress": "sonja.bregovic@gmail.com",
+
+        "jobTitleName": "Singerin",
+
+        "salary": "25.000€",
+ 
+ 
+    }, {
+ 
+        "uniqueId": "456",
+ 
+        "firstName": "Patricia",
+ 
+        "lastName": "Mueller",
+ 
+        "emailAddress": "patricia.mueller@gmail.com",
+
+        "jobTitleName": "Dolmetscher",
+
+        "salary": "35.000€",
+  },{
+ 
+        "uniqueId": "567",
+ 
+        "firstName": "Stefan",
+ 
+        "lastName": "Hansi",
+ 
+        "emailAddress": "stefan.hansi@gmail.com",
+
+        "jobTitleName": "Kassier",
+
+        "salary": "10.000€",
+ 
+    }]
+ 
+ 
